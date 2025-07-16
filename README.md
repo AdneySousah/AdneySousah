@@ -43,9 +43,10 @@ Tenho experiência com projetos desde landing pages até sistemas completos com 
 
 ## 📌 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adneysousa)  https://www.linkedin.com/in/adney-sousa-santos-frontend/
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat-square&logo=vercel&logoColor=white)](https://ifcodethen.com.br)  https://portfolio-adney-1zpg.vercel.app/
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adneysousa) https://github.com/AdneySousah
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adney-sousa-santos-frontend/)  
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-adney-1zpg.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AdneySousah)
+
 
 ---
 
