@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá! Me chamo **Adney Sousa**, tenho 26 anos, moro em MG e sou desenvolvedor web com foco em projetos modernos e funcionais.
+Olá! Me chamo **Adney Sousa**, tenho 27 anos, moro em MG e sou desenvolvedor web com foco em projetos modernos e funcionais.
 
 Atuo como freelancer desenvolvendo aplicações com **React**, **JavaScript**, **Firebase** e **Node.js**. Estou sempre buscando evoluir, estudar novas stacks e criar soluções que realmente impactam.
 
